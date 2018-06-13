@@ -1,0 +1,12 @@
+Player App
+
+1) Microphone which can record a high quality vocals. Could be interesting for people who want to add their voice over the original song.
+2) Choose a playlist. You are able to create different playlists, so it would be easier to find your favorite songs.
+3) Play a song.
+4) Pause.
+5) Radio. Listen any station online.
+6) No sound.
+7) Silent.
+8) Low volume.
+9) High volume.
+10) Stop.
